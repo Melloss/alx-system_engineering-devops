@@ -1,0 +1,3 @@
+#!/bin/bash
+
+sort < iacta | head -n 3
